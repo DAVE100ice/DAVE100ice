@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DAVE100ice
+- 👋 Hi, I’m @David Samson
 - 👀 I’m interested in Cloud Engineering* Devops Engineering
 - 🌱 I’m currently learning Altschool Africa
 - 💞️ I’m looking to collaborate on Github
