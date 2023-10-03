@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @David Samson
+- 👋 Hi, I’m @David Samson Ubi
 - 👀 I’m interested in Cloud Engineering* Devops Engineering
 - 🌱 I’m currently learning Altschool Africa
 - 💞️ I’m looking to collaborate on Github
