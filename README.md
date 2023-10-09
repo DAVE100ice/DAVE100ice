@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me davidubi079@gmail.com
 - Github email: **garethyttt@gmail.com**
-- [This is my Phone Number](09046661522)
+- [Contact me.](09046661522)
 
 <!--
 DAVE100ice/DAVE100ice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
